@@ -1,0 +1,49 @@
+{
+  "name": "root",
+  "isFolder": true,
+  "items": [
+    {
+      "name": "frontend",
+      "isFolder": true,
+      "items": [
+        {
+          "name": "src",
+          "isFolder": true,
+          "items": [
+            {
+              "name": "screen1.tsx",
+              "isFolder": false,
+              "items": []
+            },
+            {
+              "name": "screen2.tsx",
+              "isFolder": false,
+              "items": []
+            },
+            {
+              "name": "screen3.tsx",
+              "isFolder": false,
+              "items": []
+            }
+          ]
+        },
+        {
+          "name": "package.json",
+          "isFolder": false,
+          "items": []
+        }
+      ]
+    },
+    {
+      "name": "backend",
+      "isFolder": true,
+      "items": [
+        {
+          "name": "main.py",
+          "isFolder": false,
+          "items": []
+        }
+      ]
+    }
+  ]
+}

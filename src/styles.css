@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  /* text-align: center; */
+}
+
+ul {
+  list-style-type: none;
+}
+
+.collapse-icon:hover {
+  cursor: pointer;
+}
+
+.highlighted {
+  border: 1px solid yellow;
+  display: inline-flex;
+  background: yellow;
+}
